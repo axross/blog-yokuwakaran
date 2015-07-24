@@ -1,4 +1,4 @@
-baseurl = "http://axross.github.io/blog/"
+baseurl = "http://axross.github.io/blog"
 contentdir = "content"
 publishdir = "public"
 
