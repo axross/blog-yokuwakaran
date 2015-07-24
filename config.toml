@@ -1,0 +1,11 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+contentdir = "content"
+publishdir = "public"
+
+[indexes]
+  category = "categories"
+
+baseurl = "http://axross.github.io/blog"
+languageCode = "en-us"
+title = "My New Hugo Site"
+canonifyurls = true
