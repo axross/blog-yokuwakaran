@@ -5,6 +5,7 @@ publishdir = "public"
 [indexes]
   category = "categories"
 
-languageCode = "en-us"
+languageCode = "ja-jp"
 title = "My New Hugo Site"
+theme = "casper"
 canonifyurls = true
